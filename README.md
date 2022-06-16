@@ -5,19 +5,19 @@
 - Clone the repository
 
 ```sh
-$ git clone https://github.com/jo-dev123/monty.git
+git clone https://github.com/jo-dev123/monty.git
 ```
 
 - The code will be compiled this way:
 
 ```sh
-$ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
+gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ```
 
 - The monty program
 
 ```sh
-$ ./monty <file.m>
+./monty <file.m>
 ```
 
 # Tests
