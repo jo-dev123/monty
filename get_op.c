@@ -3,7 +3,7 @@
 /**
  * get_op - check op against valid opcodes
  * @op: op to check
- * @stack: double pointer to the beginnig of the stack
+ * @stack: double pointer to the beginning of the stack
  * @line_number: script line number
  *
  * Return: void
