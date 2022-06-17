@@ -5,7 +5,7 @@
 - Clone the repository
 
 ```sh
-git clone https://github.com/jo-dev123/monty.git
+git clone https://github.com/KojoMarko/monty.git
 ```
 
 - The code will be compiled this way:
