@@ -1,5 +1,0 @@
-#!/bin/bash
-echo k >> k.md
-git add .
-git commit -m "Adding to k"
-git push
